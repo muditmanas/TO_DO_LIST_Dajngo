@@ -1,0 +1,6 @@
+This project will give you a login, logout page. 
+Also you will get a user registration page (if using please create a strong passowrd)
+On the main page ther is a your to-do list which has a search bar and can search for every task you created .
+The task is seperated by each user and no user can have the acces of other user's list.
+You can perform all the CURD operations on the to do list.
+Happy Learing.
